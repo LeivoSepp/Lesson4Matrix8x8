@@ -2,6 +2,8 @@
 using Glovebox.Graphics.Drivers;
 using Glovebox.Graphics.Components;
 
+// https://github.com/gloveboxes/Windows-IoT-Core-Graphics-Library
+
 namespace Lesson4Matrix8x8
 {
     public sealed class StartupTask : IBackgroundTask
